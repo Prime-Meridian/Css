@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Your Font Name';  /* 自定义字体名称 */
+  src: url('https://files.catbox.moe/s05zjh.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;  /* 优化加载显示 */
+}
